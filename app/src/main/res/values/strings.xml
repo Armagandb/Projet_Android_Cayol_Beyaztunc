@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HoldMyBeer</string>
+    <string name="textBoxTxt">I now have a generic text.</string>
+    <string name="msg">You have modified the text.</string>
+    <string name="roastme">You have been served</string>
+    <string name="roastThat">You can\'t roast that!</string>
+    <string name="roastBread">You don\'t have bread: this is not Android GingerBread</string>
+    <string name="secondActivityWelcome">You have made it to the belly of the beast!</string>
+    <string name="hello">Hello app user... \n Do you want to play a game?</string>
+    <string name="btn">BUTTON</string>
+    <string name="revert">REVERT</string>
+    <string name="new_activity">NEW ACTIVITY</string>
+    <string name="maps_search">MAPS</string>
+    <string name="dwl">Downloaded</string>
+    <string name="clc">Button Clicked!</string>
+    <string name="toast_me">Toast Me</string>
+    <string name="toast_that">Toast That</string>
+    <string name="toast_bread">Toast Bread</string>
+    <string name="ctnt">Title? No, so it\'s the content.</string>
+    <string name="ttre">Oooh this is the title!</string>
+</resources>

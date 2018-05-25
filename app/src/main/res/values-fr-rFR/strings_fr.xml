@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TiensMaBiere</string>
+    <string name="textBoxTxt">J\'ai un texte génétique maintenant.</string>
+    <string name="msg">Vous avez modifié le texte.</string>
+    <string name="roastme">Vous êtes servi</string>
+    <string name="roastThat">Vous ne pouvez grillé ça</string>
+    <string name="roastBread">Vous l\'avez grillé un peu trop!</string>
+    <string name="secondActivityWelcome">Nous y sommes!!</string>
+    <string name="hello">Bonjour l\'utilisateur... \n Vous voulez jouer un jeu?</string>
+    <string name="btn">BOUTTON</string>
+    <string name="revert">INVERSER</string>
+    <string name="new_activity">NV ACTIVITE</string>
+    <string name="maps_search">MAPS</string>
+    <string name="dwl">Téléchargé</string>
+    <string name="clc">Boutton Cliqué!</string>
+    <string name="toast_me">Toast Moi</string>
+    <string name="toast_that">Toast ça</string>
+    <string name="toast_bread">Toast Le Pain</string>
+    <string name="ctnt">Titre? Non, donc c\'est le contenue.</string>
+    <string name="ttre">Oooh C\'est le titre!</string>
+</resources>
